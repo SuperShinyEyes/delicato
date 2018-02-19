@@ -1,0 +1,7 @@
+/_build/
+
+# Emacs backup files
+*~
+
+# Vim swap files
+*.swp

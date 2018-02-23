@@ -49,13 +49,27 @@ Ingredients(2~3ppl)
 * 소고기 다짐육 200g
 * rice 2 cups
 * onion 1/2
+* garlic 2  
 * carrots 1/2
 * 들기름 2tbs
 * salt
 * 파뿌리
 * 물 1500ml
 
+How
+###
+
+* 쌀 불리기
+* 고기 맛술,간장으로 간하기  
+* 야채 다지기
+* 고기,야채 볶기
+* 쌀 넣어서 같이 볶기 
+* 쌀이 좀 하얘지면 육수 넣고 10분 끓이기
+* 소금으로 간 맞추기
+* 계란 풀기
+
+
 .. rubric:: Reference
 
 .. [1] http://m.post.naver.com/viewer/postView.nhn?volumeNo=5010657&memberNo=3149&vType=VERTICAL
-.. [2] https://blog.naver.com/yee1036/221212151201
+.. [2] https://blog.naver.com/reser45/221187883372

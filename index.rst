@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ==============
-Delicate & etc
+Delicato & etc
 ==============
 These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
 

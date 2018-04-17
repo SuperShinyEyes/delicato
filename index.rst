@@ -3,12 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===============================
-Computer Scientists' Cheatsheet
-===============================
-
-This documentation is a public note of any topic regards computer science. May it be Machine Learning, Discrete Mathematics or Bayesian Data Analysis.
-
+==============
+Delicate & etc
+==============
 These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
 
 .. toctree::
@@ -16,6 +13,7 @@ These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
 
    subjects/oriental
    subjects/western
+   subjects/bike
 
 Metadocs
 ========

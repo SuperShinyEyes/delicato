@@ -78,4 +78,38 @@ Sweat for 2 hours
 
 Chicken in milk
 ===============
-<iframe src="https://www.youtube.com/embed/H8h0kbBFo2I" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+
+.. raw:: html
+
+	<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+		<iframe src="https://www.youtube.com/embed/H8h0kbBFo2I" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+	</div>
+
+
+.. rubric:: Ingredients
+
+- lemon
+- chicken
+- milk
+- spinach
+- garlic
+- butter
+- cinamon
+
+How-to
+######
+
+.. rubric:: Meat
+
+- Seasoning: salt + pepper + olive oil ==> chicken
+- Boil. Put Butter. Caramelize
+	- After caramelizing, throw the butter
+- Repeat step 2
+- Put third butter.
+	- Put lemon peel, cinamon, garlic
+	- Pepper, salt
+	- milk
+	- chicken
+	- squeeze lemon
+- Oven 180 degrees for 1.5 hr
+- Prepare brocolli

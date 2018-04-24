@@ -3,12 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===============================
-Computer Scientists' Cheatsheet
-===============================
-
-This documentation is a public note of any topic regards computer science. May it be Machine Learning, Discrete Mathematics or Bayesian Data Analysis.
-
 ==============
 Delicato & etc
 ==============

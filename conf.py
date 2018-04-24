@@ -49,8 +49,6 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Computer Scientists\' Cheatsheet'
-copyright = u'2017, Seyoung Park'
 project = u'Delicato & etc.'
 copyright = u'2018, Seyoung Park'
 author = u'Seyoung Park'

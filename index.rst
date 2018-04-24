@@ -9,6 +9,9 @@ Computer Scientists' Cheatsheet
 
 This documentation is a public note of any topic regards computer science. May it be Machine Learning, Discrete Mathematics or Bayesian Data Analysis.
 
+==============
+Delicato & etc
+==============
 These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
 
 .. toctree::
@@ -16,6 +19,7 @@ These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
 
    subjects/oriental
    subjects/western
+   subjects/bike
 
 Metadocs
 ========

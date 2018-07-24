@@ -11,9 +11,10 @@ These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
 .. toctree::
    :maxdepth: 3
 
-   subjects/oriental
-   subjects/western
-   subjects/bike
+   recipes/oriental/index
+   recipes/western/western
+   recipes/salad/salad
+   recipes/bike
 
 Metadocs
 ========

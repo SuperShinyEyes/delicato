@@ -83,17 +83,51 @@ Ingredient
 
 How
 ###
-
+Soak tomatoes into boiling water shortly and peel them.
 
 ------
 
+Salmon salad
+============
 
 Ingredient
 ##########
+- salmon
+- salmon sauce
+
+	- soya sauce 2 tbs
+	- honey or sugar 1 tbs
+	- ginger & garlic 1ts
+	- 청주 3 tbs
+	- wine vinegar 1 tbs
+
+- dressing
+
+	- olive oil 3 tbs
+	- 다진 잣 1 ts
+	- chopped basil 1 tbs
+	- vinegar 1 tbs
+	- soya sauce 4 tbs
+	- chopped garlic 1/2 ts
+	- salt & sesame oil
 
 How
 ###
+- season salmon with salt and leave
+- make salmon sauce
 
+	- 분량의 재료를 섞어 팬에 넣고 한소끔 끓여 걸쭉해지면 그대로 식히세요
+
+- fry salmon
+
+	- heat fan with olive oil
+	- fry salmon little and add sauce
+	- fry little more
+
+- when salmon is light pink add wine vinegar or lemon
+- deco with vegetables
+
+	- 양상추
 
 ------
 

@@ -177,12 +177,11 @@ Ingredient
 	- 매실청
 	- 다진 마늘
 
-How
-###
-
-
 ------
 
+Tofu vegetable salad
+====================
+`두부채소샐러드 <https://m.blog.naver.com/PostView.nhn?blogId=yummycook&logNo=221013035607&referrerCode=0&searchKeyword=샐러드>`_
 
 Ingredient
 ##########

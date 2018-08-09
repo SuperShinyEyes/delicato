@@ -15,6 +15,7 @@ These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
    recipes/western/western
    recipes/salad/salad
    recipes/chemotherapy
+   recipes/references
    recipes/bike
 
 Metadocs

@@ -131,19 +131,51 @@ How
 
 ------
 
+Soft-tofu & egg salad
+=====================
+`훈제란 연두부 샐러드 <https://m.blog.naver.com/PostView.nhn?blogId=yummycook&logNo=70068361112&referrerCode=0&searchKeyword=연두부>`_
 
 Ingredient
 ##########
+- eggs 3
+- soft-tofu 1 pack
+- blue cucumber 1/2
+- dressing
+
+	- soya sauce 2 tbs
+	- chopped spring onion 1 tbs
+	- chopped garlic 1 ts
+	- sugar 1 ts
+	- sesame oil 1 ts
+	- water 1tbs
+	- sesame little
 
 How
 ###
-
+- Keep all ingredients cool
+- Slice cucumber with a peeler and cut them into half
+- Slice boiled eggs into six pieces
+- 
 
 ------
 
+Soft-tofu morning salad
+=======================
+`연두부 모닝 샐러드 <https://m.blog.naver.com/PostView.nhn?blogId=lee700415&logNo=221330548916&targetKeyword=연두부&targetRecommendationCode=1&keywordSearchType=TEXT>`_
 
 Ingredient
 ##########
+- 로메인
+- 루꼴라
+- 토마토
+- 연두부
+- Dressing
+
+	- Balsamic
+	- soya sauce
+	- 생강청
+	- 매실청
+	- 다진 마늘
 
 How
 ###

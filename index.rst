@@ -14,9 +14,11 @@ These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
    recipes/oriental/index
    recipes/western/western
    recipes/salad/salad
+   recipes/baking/baking
    recipes/chemotherapy
    recipes/references
    recipes/bike
+
 
 Metadocs
 ========

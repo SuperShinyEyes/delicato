@@ -13,10 +13,10 @@ Ingredients(15~20kpl)
 	- milk 0.5L
 	- tuorehiiva 50g
 	- salt 1-2ts
-	- sugar 2dl
+	- sugar 2dl / 13tbs
 	- kardemumma(cardamom) 1tbs
 	- egg 1
-	- puolikarkea flour 900g or 14dl
+	- puolikarkea flour 900g or 14dl or 84tbs
 	- butter 100g
 
 - in-between

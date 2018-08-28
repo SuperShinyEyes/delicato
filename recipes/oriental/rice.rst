@@ -2,6 +2,73 @@
 Rice
 ====
 
+Abalone Wok
+===========
+`전복덮밥 <https://m.blog.naver.com/PostView.nhn?blogId=yummycook&logNo=221299489058&targetKeyword=&targetRecommendationCode=1>`_
+
+Ingredient(2 ppl)
+#################
+- Abalone 4
+- oil 1 tbs
+- garlic 5 pieces
+- onion 1/4
+- 완두콩 삶은 것 1/3 cup
+- rice 2 bowl
+- sesame oil 1 ts
+- 굴소스 1/2 tbs
+- salt
+- pepper
+- sauce for abalone
+
+    - oil 1/2 tbs
+    - garlic 3 slices
+    - soya sauce 1/2 tbs
+    - 올리고당 1 tbs
+
+- garnish
+
+    - lemon
+    - 파채
+
+
+How
+###
+1. Fry rice
+
+    - Chop onion, garlic, abalone organs
+    - Fry onion & garlic with oil 1 tbs
+
+        - Add Abalone organs
+        - Add rice
+        - Add 완두콩, 굴소스, 참기름
+        - Season with salt & pepper
+
+2. Fry abalone
+
+    - Fry garlic & oil
+
+        - Add Abalone
+        - When the abalones are yellow, add the sauce for the abalones
+
+3. Garnish with lemon peel slices
+
+
+------
+
+Natto avocdao rice
+==================
+`낫또 다이어트 <https://m.blog.naver.com/PostView.nhn?blogId=yummycook&logNo=221028958179&referrerCode=0&searchKeyword=샐러드>`_
+
+Ingredient
+##########
+
+How
+###
+
+
+
+-----------
+
 Korean Curry [1]_
 =================
 

@@ -39,23 +39,71 @@ How
 
 ------
 
+Pumpkin Soo-jae-bi
+==================
+`단호박 된장 수제비 <https://m.blog.naver.com/PostView.nhn?blogId=yummycook&logNo=70117326208&referrerCode=0&searchKeyword=수제비>`_
 
-Ingredient
-##########
+Ingredient(2ppl)
+################
+1. Dough
+
+	- flour 1 cup
+	- Steamed & peeled pumpkin 100g
+	- salt
+
+2. Etc.
+
+	- 멸치다시마육수 3 cups
+	- 된장 1 ts
+	- 바지락조개 100g
+	- potatoes 1/2
+	- onion 1/4
+	- 대파 1/2
 
 How
 ###
+- Steam pumpkin
 
+	- Add 1~2 tbs of water
+	- Microwave strong 3 min.
+
+- Make a dough
+
+	- Mix the pumpkin with flour & salt
+	- Add water if needed
+	- Raise for 30 min. in a fridge
+
+- Soup
+
+	- 육수 만들기
+	- Add potato, onion and shells
+	- After boiling, add miso
+	- After boiling 2nd time, add the dough
+	- When the dough is well-done, add spring onion
 
 ------
 
+Soba salad
+==========
+`메밀국수샐러드 <https://m.blog.naver.com/PostView.nhn?blogId=yummycook&logNo=221116288143&referrerCode=0&searchKeyword=샐러드>`_
 
-Ingredient
-##########
 
-How
-###
+Ingredient(1~2 ppl)
+###################
+- smoked chicken breast
+- cucumber 1/4
+- paprika 1/2
+- soaked onion 1/4
+- salad 1 cup
+- soba 50g
 
+For Dressing
+
+- sesame oil 1 ts
+- 쯔유 1 ts
+- soya sauce 2 ts
+- apple vinegar 2 tbs
+- 연겨자 1 ts
 
 ------
 

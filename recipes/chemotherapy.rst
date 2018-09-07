@@ -72,8 +72,32 @@ How
 Rolled dumplin
 ##############
 
-Ingredients
-^^^^^^^^^^^
+Ingredients (10ppl)
+^^^^^^^^^^^^^^^^^^^
+
+- 숙주 600g
+- 두부 꼭 짠것 700g
+- 당면 200g
+- minxed pork 400g
+- minxed beef 200g
+
+Meat marinade
+^^^^^^^^^^^^^
+- mashed garlic
+- salt
+- pepper
+- sesame oil
+- 청주
+
+Overall marinade
+^^^^^^^^^^^^^^^^
+- chopped spring onion 1.5
+- mashed garlic 3 tbs
+- egg 4
+- 깨소금
+- 소금
+- pepper
+- sesame oil
 
 How
 ^^^
